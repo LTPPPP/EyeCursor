@@ -20,7 +20,7 @@ This project demonstrates how to use eye tracking technology to control the mous
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/eye-tracking-mouse-control.git
+   git clone https://github.com/LTPPPP/EyeCursor.git
    ```
 
    ```
